@@ -11,9 +11,12 @@ font-family: 'Montserrat', sans-serif;
 #aboutustitle{
     text-align: center;
 }
-.one{
+.one,.topnavabout{
     background-color: #9A8C98;
 }
-#aboutcenter,#maincenter,article{
+#aboutcenter,#maincenter,article,.two{
     background-color: #C9ADA7 ;
+}
+body{
+    background-color: #F2E9E4;
 }
