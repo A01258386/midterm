@@ -33,3 +33,10 @@ body{
     float:left;
     margin:100px;
 }
+
+a:link{
+    color:red green;
+}
+a:visited{
+    color:silver;
+}
