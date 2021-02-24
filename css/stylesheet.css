@@ -8,3 +8,12 @@ font-family: 'Montserrat', sans-serif;
 #breakfast ,#lunch{
     list-style-type: none;
 }
+#aboutustitle{
+    text-align: center;
+}
+.one{
+    background-color: #9A8C98;
+}
+#aboutcenter,#maincenter,article{
+    background-color: #C9ADA7 ;
+}
