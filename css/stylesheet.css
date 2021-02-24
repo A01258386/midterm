@@ -13,7 +13,7 @@ font-family: 'Montserrat', sans-serif;
 }
 .one,.aboutnav{
     background-color: #9A8C98;
-    position: relative;
+    text-align: center;
 }
 
 #aboutcenter,#maincenter,article,.two{
@@ -40,6 +40,12 @@ a:link{
 a:visited{
     color:silver;
 }
-.classone{
+.lione,.litwo,.lthree{
     position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    widows: 250px;
+    text-decoration: none;
+
 }
