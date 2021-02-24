@@ -11,12 +11,25 @@ font-family: 'Montserrat', sans-serif;
 #aboutustitle{
     text-align: center;
 }
-.one,.topnavabout{
+.one,.aboutnav{
     background-color: #9A8C98;
+    position: relative;
 }
+
 #aboutcenter,#maincenter,article,.two{
     background-color: #C9ADA7 ;
 }
 body{
     background-color: #F2E9E4;
+}
+/* .navcontainer{
+    position: static;
+} */
+.litwo{
+   position:fixed;
+    margin:30px;
+}
+.lione,.three{
+    float:left;
+    margin:100px;
 }
