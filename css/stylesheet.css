@@ -53,3 +53,12 @@ a:visited{
 .breakfast{
 float:right;
 }
+.Restaurant {
+    
+    position:relative;
+    right:50px;
+}
+#homecenter{
+    position: relative;
+    bottom:0px;
+}
